@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 <!-- - avater 👀 made with stable-diffusion -->
+$\hat{\textit{ryu}}$
 
 #### Github Stats
 ![ryuhat's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
