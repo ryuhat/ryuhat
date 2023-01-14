@@ -1,11 +1,11 @@
-<!-- #### Github Stats -->
+#### Github Stats
 <!-- ![ryuhat's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&count_private=true&layout=compact&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&count_private=true&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217" />
 </a>
 <!-- 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
