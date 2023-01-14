@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217" />
 </a>
 
 <!-- ![ryuhat's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuhat&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff) -->
