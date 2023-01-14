@@ -31,7 +31,7 @@
 
 <!-- ### Language -->
 
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<!-- <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> -->
 <!-- <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> -->
 
-
+![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
 
 <!-- - 👋 Hi, I’m @ryuhat
