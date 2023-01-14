@@ -29,16 +29,16 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
 
-### Language
+<!-- ### Language -->
 
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<!-- <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
 <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
 
-### Library
+<!-- ### Library
 
 <img src="https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">
 <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> --> -->
 
 
 ![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
