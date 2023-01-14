@@ -15,6 +15,24 @@
 
 <!-- ![ryuhat's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuhat&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff) -->
 
+
+
+![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
+![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
+![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
+
+
+<!-- - 👋 Hi, I’m @ryuhat
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+ -->
+<!---
+ryuhat/ryuhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <!-- #### Tech Stack -->
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -84,19 +102,3 @@
 <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> -->
-
-![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
-![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
-
-
-<!-- - 👋 Hi, I’m @ryuhat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
-<!---
-ryuhat/ryuhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
