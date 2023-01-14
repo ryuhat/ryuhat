@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 <!-- - avater 👀 made with stable-diffusion -->
-$\hat{\textit{ryu}}$
+$\widehat{\textit{ryu}}$
 🧢
 🐉
 #### Github Stats
