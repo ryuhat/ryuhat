@@ -9,7 +9,7 @@ $\widehat{\textit{ryu}}$
 🐉
 <!-- #### Github Stats -->
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhattheme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
