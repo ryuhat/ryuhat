@@ -32,8 +32,8 @@ $\widehat{\textit{ryu}}$
 
 
 ![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
-![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
+<!-- ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
+![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat) -->
 
 
 
