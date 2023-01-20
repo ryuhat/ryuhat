@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 <!-- - avater 👀 made with stable-diffusion -->
-$\widehat{\textit{ryu}}$
-🧢
-🐉
+
 <!-- #### Github Stats -->
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,6 +30,9 @@ $\widehat{\textit{ryu}}$
 
 
 ![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
+$\widehat{\textit{ryu}}$
+🧢
+🐉
 <!-- ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat) -->
 
