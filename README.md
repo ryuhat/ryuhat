@@ -11,7 +11,7 @@ $\widehat{\textit{ryu}}$
 <!-- [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark" />
+<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dracula" />
 
 <p align="left">
 
