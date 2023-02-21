@@ -13,7 +13,7 @@ $\widehat{\textit{ryu}}$
 
 <!-- <img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark" /> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark)
 
 <p align="left">
 
