@@ -14,7 +14,7 @@ $\widehat{\textit{ryu}}$
 <!-- <img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark" /> -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=tokyonight)
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight) -->
 
 
@@ -25,6 +25,8 @@ $\widehat{\textit{ryu}}$
 <img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=ryuhat&theme=tokyonight&show_icons=false&count_private=true" />
 
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=tokyonight)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryuhat&theme=default&utcOffset=8) -->
 
