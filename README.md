@@ -17,9 +17,10 @@ $\widehat{\textit{ryu}}$
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight)
 
+
 <p align="left">
 
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=ryuhat&layout=compact&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" width="44.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight" />
 <img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=ryuhat&theme=tokyonight&show_icons=ture&count_private=true" />
 
 </p>
