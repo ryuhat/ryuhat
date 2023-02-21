@@ -11,6 +11,14 @@ $\widehat{\textit{ryu}}$
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=ryuhat&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dracula" />
+
+<p align="left">
+
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=ryuhat1&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=ryuhat&theme=dracula&show_icons=ture&count_private=true" />
+
+</p>
 
 <!-- ![ryuhat's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&show_icons=true&count_private=true&&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217) -->
 
