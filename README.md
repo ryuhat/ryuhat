@@ -15,7 +15,7 @@ $\widehat{\textit{ryu}}$
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight) -->
 
 
 <p align="left">
