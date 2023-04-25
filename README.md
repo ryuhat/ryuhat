@@ -16,7 +16,7 @@ $\widehat{\textit{ryu}}$
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight) -->
-[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="left">
 
@@ -46,7 +46,7 @@ $\widehat{\textit{ryu}}$
 
 <!-- ![ryuhat's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuhat&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff) -->
 
-
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![ryuhat's Profile views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
 
