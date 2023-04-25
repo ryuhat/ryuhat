@@ -16,7 +16,7 @@ $\widehat{\textit{ryu}}$
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=dark) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuhat&theme=tokyonight) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
 
