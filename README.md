@@ -44,9 +44,9 @@ $\widehat{\textit{ryu}}$
   &nbsp; &nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://subversion.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/subversion.png" alt="subversion" width="40" height="40" /> </a>
+  <a href="https://subversion.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/subversion.png" alt="subversion" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
   &nbsp; &nbsp;
@@ -62,7 +62,7 @@ $\widehat{\textit{ryu}}$
   &nbsp; &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
+  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
 </div>
 
 
@@ -76,18 +76,38 @@ $\widehat{\textit{ryu}}$
   &nbsp; &nbsp;
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/keras.svg" alt="keras" width="40" height="40" /> </a>
+  <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/keras.svg" alt="keras" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ryuhat/ryuhat/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 </div>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ryuhat&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=ryuhat&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="ryuhat's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ryuhat&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryuhat&theme=default&utcOffset=8) -->
 
