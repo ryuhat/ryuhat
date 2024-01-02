@@ -29,6 +29,14 @@ $\widehat{\textit{ryu}}$
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuhat&theme=tokyonight)
 
 
+## 👤 About Me
+
+Hello, my name is ryuhat.
+
+I am deeply engaged in AI fields like Computer Vision and Large Language Models (LLMs), as well as in video editing, front-end development, and game creation. I have a passion for learning new technologies and applying them in creative projects. My experience spans various domains, enabling me to provide innovative solutions and collaborate effectively in technical projects.
+
+## ⚙ Skills
+
 ### 🛠 Technologies
 
 <div align="left">
