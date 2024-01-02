@@ -8,11 +8,12 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 
 ### 🛠 Technologies
 
-I have proficiency in various technologies, including:
+I am proficient in a range of technologies, including:
 
-- **Frameworks & Languages:** Qt, Django, Node.js, React, MySQL, MongoDB
-- **DevOps & Cloud:** Git, Subversion, Docker, AWS, Kubernetes, Google Cloud
-- **Other Tools:** Unity, Linux, Bash, ROS
+- **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js
+- **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing
+- **DevOps & Cloud:** Git, Docker, AWS, Kubernetes, Google Cloud
+- **Other Tools:** Linux, Bash
 
 ### 📚 Libraries
 
