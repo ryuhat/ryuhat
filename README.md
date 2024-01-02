@@ -11,7 +11,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 I am proficient in a range of technologies, including:
 
 - **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js
-- **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing
+- **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing, Object Detection and Tracking
 - **DevOps & Cloud:** Git, Docker, AWS, Kubernetes, Google Cloud
 - **Other Tools:** Linux, Bash
 
@@ -20,6 +20,8 @@ I am proficient in a range of technologies, including:
 My expertise also extends to several libraries:
 
 - **AI & Data Science:** OpenCV, scikit-learn, PyTorch, Keras, TensorFlow, NumPy, pandas, Matplotlib, Seaborn
+- **Web Development & Interactive AI:** Streamlit, Gradio
+- **Language Models & Tools:** LangChain, LLMa Index
 
 ## 📊 GitHub Stats
 
