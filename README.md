@@ -45,8 +45,4 @@ Visualize my GitHub activity over time to see the areas where I focus most.
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode)
 
-## 🌍 Reach Out
-
-Interested in collaborating or learning more about my work? Feel free to connect!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
