@@ -46,3 +46,10 @@ Visualize my GitHub activity over time to see the areas where I focus most.
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
+
+<!-- feed start -->
+- Jan 02 - [GradioのChatInterfaceでChatGPTと対話](https://zenn.dev/ryuhat/scraps/790f2b5dab64ac)
+- Jan 02 - [Pythonの環境構築にRyeを使ってみる](https://zenn.dev/ryuhat/scraps/5fc713047c7ee4)
+- Jan 17 - [機械学習関連の図の作成メモ](https://zenn.dev/ryuhat/articles/13208aa266072a)
+- Jan 16 - [matplotlibで複数の物体の軌跡を3Dアニメーション](https://zenn.dev/ryuhat/articles/1c5b9a50bdf669)
+<!-- feed end -->
