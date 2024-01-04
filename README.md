@@ -55,6 +55,7 @@ Visualize my GitHub activity over time to see the areas where I focus most.
 [<img src="https://user-images.githubusercontent.com/37477845/94176882-b0716f00-fed3-11ea-8254-dbff72e992e2.png" width="32px">](https://speakerdeck.com/ryuhat) 
 [<img src="https://user-images.githubusercontent.com/37477845/102078263-fb08e480-3e4d-11eb-907f-8bdd10d77da4.png" width="32px">](https://www.kaggle.com/ryuhat)
 <a href="https://www.buymeacoffee.com/ryuhat" target="_blank"><br><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="36" width="170" >
+[<img src="https://user-images.githubusercontent.com/37477845/120681754-aa0dab00-c4d6-11eb-8b1d-7902d5d8fc5a.png" height="30px">](https://ofuse.me/e4d3eb7c)
 
 ## Recent Zenn Blog Posts
 <!-- feed start -->
