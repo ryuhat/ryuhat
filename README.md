@@ -47,6 +47,7 @@ Visualize my GitHub activity over time to see the areas where I focus most.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuhat&color=lightgrey)
 
+## Recent Zenn Blog Posts
 <!-- feed start -->
 - Jan 02 - [GradioのChatInterfaceでChatGPTと対話](https://zenn.dev/ryuhat/scraps/790f2b5dab64ac)
 - Jan 02 - [Pythonの環境構築にRyeを使ってみる](https://zenn.dev/ryuhat/scraps/5fc713047c7ee4)
