@@ -8,20 +8,19 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 
 ### 🛠 Technologies
 
-- **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js
+- **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js, Java
 - **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing, Object Detection and Tracking
 - **DevOps & Cloud:** Git, Docker, Google Cloud
 - **Other Tools:** Linux, Bash
+- **Game Engine**: Unity
 - **Design**: Figma, Canva
 - **Video Editing**: Davinci Resolve, YMM4
 
 ### 📚 Libraries
 
-My expertise also extends to several libraries:
-
 - **AI & Data Science:** OpenCV, scikit-learn, PyTorch, Keras, TensorFlow, NumPy, pandas, Matplotlib, Seaborn
-- **Web Development & Interactive AI:** Streamlit, Gradio
-- **Language Models & Tools:** LangChain, llama Index
+- **Web Development & Interactive AI:** Gradio, Streamlit
+- **Language Models & Tools:** LangChain, LlamaIndex
 
 <!--
 ## 📊 GitHub Stats
