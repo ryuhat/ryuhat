@@ -8,12 +8,12 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 
 ### 🛠 Technologies
 
-I am proficient in a range of technologies, including:
-
 - **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js
 - **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing, Object Detection and Tracking
-- **DevOps & Cloud:** Git, Docker, AWS, Kubernetes, Google Cloud
+- **DevOps & Cloud:** Git, Docker, Google Cloud
 - **Other Tools:** Linux, Bash
+- **Design**: Figma, Canva
+- **Video Editing**: Davinci Resolve, YMM4
 
 ### 📚 Libraries
 
@@ -23,6 +23,7 @@ My expertise also extends to several libraries:
 - **Web Development & Interactive AI:** Streamlit, Gradio
 - **Language Models & Tools:** LangChain, llama Index
 
+<!--
 ## 📊 GitHub Stats
 
 - **Languages and Technologies:** Gain insights into my most used languages and tools.
@@ -30,7 +31,9 @@ My expertise also extends to several libraries:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&layout=compact&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuhat&theme=tokyonight&show_icons=true&count_private=true)
+-->
 
+<!--
 ## 🏆 Achievements
 
 - **GitHub Streaks:** View my consistent contributions over time.
@@ -38,12 +41,13 @@ My expertise also extends to several libraries:
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ryuhat&theme=tokyonight)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryuhat&theme=juicyfresh&column=8)
+-->
 
+<!--
 ## 📈 Activity Graph
 
-Visualize my GitHub activity over time to see the areas where I focus most.
-
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode)
+-->
 
 ## 🌐 SNS
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/ryuhats) 
