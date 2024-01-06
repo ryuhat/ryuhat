@@ -10,13 +10,13 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 
 | Category                       | Skills                                             |
 | ------------------------------ | -------------------------------------------------- |
-| **Programming & Scripting**    | Python, JavaScript, Java, Go, R, Matlab            |
+| **Programming & Scripting**    | Python, JavaScript, Java, Go, R, Matlab         |
 | **Web Development Frameworks** | React, Next.js, Node.js                            |
 | **AI & Machine Learning**      | Computer Vision (Object Detection, Tracking), , Natural Language Processing (NLP) |
 | **DevOps & Cloud Technologies**| Git, Docker, Google Cloud                          |
-| **System & Utility Tools**     | Linux, Bash                                        |
+| **System & Utility Tools**     | Linux, zsh, vim                                    |
 | **Game Development**           | Unity                                              |
-| **Design & Video Editing**     | Figma, Canva (Design); Davinci Resolve, YMM4 (Video Editing) |
+| **Design & Video Editing**     | Figma, Canva, Blender (Design); Davinci Resolve, YMM4 (Video Editing) |
 
 
 ### 📚 Libraries
