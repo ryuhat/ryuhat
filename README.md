@@ -8,7 +8,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 
 ### 🛠 Technologies
 
-- **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js, Java
+- **Frameworks & Languages:** Python, JavaScript, React, Next.js, Node.js, Java, Go, R, Matlab
 - **AI & Computer Vision:** Machine Learning, Deep Learning, Image Processing, Object Detection and Tracking
 - **DevOps & Cloud:** Git, Docker, Google Cloud
 - **Other Tools:** Linux, Bash
