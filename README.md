@@ -48,7 +48,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode)
 -->
 
-## 🌐 SNS
+## 🌐 Social
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/ryuhats) 
 [<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://ryuhat.hatenablog.com/) 
 [<img src="https://user-images.githubusercontent.com/37477845/94174261-06dcae80-fed0-11ea-99d4-cc66d7a91c31.png" width="32px">](https://qiita.com/ryuhat) 
