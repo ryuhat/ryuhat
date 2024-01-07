@@ -19,9 +19,9 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 | **Design & Video Editing**     | Figma, Canva, Blender (Design); Davinci Resolve, YMM4 (Video Editing) |
 
 
-### 📚 Libraries
+### 📚 Frequently Used Python Libraries
 
-- **AI & Data Science:** OpenCV, scikit-learn, PyTorch, Keras, TensorFlow, NumPy, pandas, Matplotlib, Seaborn
+- **AI & Data Science:** PyTorch, OpenCV, scikit-learn, Keras, TensorFlow, NumPy, pandas, Matplotlib
 - **Web Development & Interactive AI:** Gradio, Streamlit
 - **Language Models & Tools:** LangChain, LlamaIndex
 
