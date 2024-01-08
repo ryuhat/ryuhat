@@ -51,6 +51,19 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryuhat&theme=xcode)
 -->
 
+<!--
+[<img src="readme_files/huggingface_mini.svg" alt="huggingface" height=40>](https://huggingface.co)
+[<img src="readme_files/python.svg" alt="python" height=40>](https://www.python.org)
+[<img src="readme_files/fastapi.svg" alt="fastapi" height=40>](https://fastapi.tiangolo.com)
+[<img src="readme_files/encode.svg" alt="encode" height=40>](https://www.encode.io)
+[<img src="readme_files/svelte.svg" alt="svelte" height=40>](https://svelte.dev)
+[<img src="readme_files/vite.svg" alt="vite" height=40>](https://vitejs.dev)
+[<img src="readme_files/pnpm.svg" alt="pnpm" height=40>](https://pnpm.io)
+[<img src="readme_files/tailwind.svg" alt="tailwind" height=40>](https://tailwindcss.com)
+[<img src="readme_files/storybook.svg" alt="storybook" height=40>](https://storybook.js.org/)
+[<img src="readme_files/chromatic.svg" alt="chromatic" height=40>](https://www.chromatic.com/)
+-->
+
 ## 🌐 Social
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/ryuhats) 
 [<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://ryuhat.hatenablog.com/) 
