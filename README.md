@@ -2,7 +2,7 @@
 
 Hello! I'm ryuhat, a passionate tech enthusiast.
 
-I specialize in AI technologies such as Computer Vision and Large Language Models (LLMs), and I'm also skilled in video editing, front-end development, and game creation. I love learning and applying new technologies to innovate in creative projects. My diverse experience enables me to deliver innovative solutions and collaborate effectively in technical ventures.
+I specialize in AI technologies such as Computer Vision and Large Language Models (LLMs), and I'm also skilled in video editing, front-end development, and game creation. I love learning and applying new technologies to innovate in creative projects.
 
 ## ⚙ Skills
 
@@ -12,7 +12,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 | ------------------------------ | -------------------------------------------------- |
 | **Programming & Scripting**    | Python, JavaScript, Java, Go, R, Matlab         |
 | **Web Development Frameworks** | React, Next.js, Node.js                            |
-| **AI & Machine Learning**      | Computer Vision (Object Detection, Tracking), , Natural Language Processing (NLP) |
+| **AI & Machine Learning**      | Computer Vision (Object Detection, Tracking), Natural Language Processing (NLP) |
 | **DevOps & Cloud Technologies**| Git, Docker, Google Cloud                          |
 | **System & Utility Tools**     | Linux, zsh, vim                                    |
 | **Game Development**           | Unity                                              |
