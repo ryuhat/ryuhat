@@ -7,6 +7,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 ## ⚙ Skills
 
 ### 🛠 Technologies
+[![My Skills](https://skillicons.dev/icons?perline=6&i=python,js,java,go,r,matlab,react,nextjs,nodejs,git,docker,gcp,linux,vim,unity,figma,blender,electron,opencv,raspberrypi,wordpress)](https://skillicons.dev)
 
 | Category                       | Skills                                             |
 | ------------------------------ | -------------------------------------------------- |
