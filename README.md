@@ -7,24 +7,25 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 ## ⚙ Skills
 
 ### 🛠 Technologies
-[![My Skills](https://skillicons.dev/icons?perline=6&i=python,js,java,go,r,matlab,react,nextjs,nodejs,git,docker,gcp,linux,vim,unity,figma,blender,electron,opencv,raspberrypi,wordpress)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?perline=6&i=python,js,java,go,r,matlab,react,nextjs,nodejs,git,docker,gcp,linux,vim)](https://skillicons.dev)
 
 | Category                       | Skills                                             |
 | ------------------------------ | -------------------------------------------------- |
-| **Programming & Scripting**    | Python, JavaScript, Java, Go, R, Matlab         |
+| **Programming & Scripting**    | Python, JavaScript, Java, Go, R, Matlab            |
 | **Web Development Frameworks** | React, Next.js, Node.js                            |
-| **AI & Machine Learning**      | Computer Vision (Object Detection, Tracking), Natural Language Processing (NLP) |
+| **AI & Machine Learning**      | Computer Vision (Object Detection, Tracking), NLP  |
 | **DevOps & Cloud Technologies**| Git, Docker, Google Cloud                          |
 | **System & Utility Tools**     | Linux, zsh, vim                                    |
 | **Game Development**           | Unity                                              |
 | **Design & Video Editing**     | Figma, Canva, Blender (Design); Davinci Resolve, YMM4 (Video Editing) |
 
-
 ### 📚 Frequently Used Python Libraries
+[![Python Libraries](https://skillicons.dev/icons?perline=6&i=python,tensorflow,pytorch,opencv,raspberrypi)](https://skillicons.dev)
 
 - **AI & Data Science:** PyTorch, OpenCV, scikit-learn, Keras, TensorFlow, NumPy, pandas, Matplotlib
 - **Web Development & Interactive AI:** Gradio, Streamlit
 - **Language Models & Tools:** LangChain, LlamaIndex
+
 
 <!--
 ## 📊 GitHub Stats
