@@ -7,7 +7,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 ## ⚙ Skills
 
 ### 🛠 Technologies
-[![Technologies](https://skillicons.dev/icons?perline=6&i=python,js,ts,unity,cpp,java,go,r,matlab,react,nextjs,nodejs,git,docker,gcp,linux,vim)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?perline=6&i=python,js,ts,unity,cpp,java,go,r,matlab,react,nextjs,nodejs,docker,gcp,linux,vim)](https://skillicons.dev)
 
 | Category                       | Skills                                             |
 | ------------------------------ | -------------------------------------------------- |
@@ -20,7 +20,7 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 | **Design & Video Editing**     | Figma, Canva, Blender (Design); Davinci Resolve, YMM4 (Video Editing) |
 
 ### 📚 Frequently Used Python Libraries
-[![Python Libraries](https://skillicons.dev/icons?perline=6&i=python,tensorflow,pytorch,opencv,raspberrypi)](https://skillicons.dev)
+<!-- [![Python Libraries](https://skillicons.dev/icons?perline=6&i=python,tensorflow,pytorch,opencv,raspberrypi)](https://skillicons.dev) -->
 
 - **AI & Data Science:** PyTorch, OpenCV, scikit-learn, Keras, TensorFlow, NumPy, pandas, Matplotlib
 - **Web Development & Interactive AI:** Gradio, Streamlit
