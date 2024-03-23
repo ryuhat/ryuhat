@@ -26,6 +26,8 @@ I specialize in AI technologies such as Computer Vision and Large Language Model
 - **Web Development & Interactive AI:** Gradio, Streamlit
 - **Language Models & Tools:** LangChain, LlamaIndex
 
+### LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/ryuhat)
 
 <!--
 ## 📊 GitHub Stats
