@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=ryuhat&fontSize=70&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HonoGear&fontSize=70&desc=ryuhat&descSize=25&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;AI+%26+Computer+Vision+Expert;Creative+Technologist;Building+HonoGear+Blog)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;AI+%26+Computer+Vision+Expert;Creative+Technologist;Building+Hono+'Article-as-Universe'+Explorer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://twitter.com/ryuhats"><img src="https://img.shields.io/twitter/follow/ryuhats?style=social" alt="X Follow"></a>
@@ -15,11 +15,19 @@
 
 ### 🚀 High-Touch Engineering & Creative AI
 
-Passionate developer specializing in **Computer Vision**, **Large Language Models (LLMs)**, and **Modern Web Architectures**. I focus on bridging complex AI research with delightful user experiences.
+Passionate developer specializing in **Computer Vision**, **Large Language Models (LLMs)**, and **Modern Web Architectures**. I focuses on bridging complex AI research with delightful user experiences.
 
-- 🛠️ **HonoGear**: Currently building a high-performance blog using Astro 5, React 19, and Tree.js.
-- 🧠 **AI Focus**: Advanced RAG systems, AI coding agents, and generative media.
+- 🛠️ **HonoGear**: Building a high-performance blog using Astro 5, React 19, and Custom 3D Physics.
+- 🧠 **AI Focus**: Advanced RAG systems, AI coding agents, and real-time vision pipelines.
 - 🎨 **Interests**: 3D Graphics (Three.js), UI Design (Glassmorphism), and Cyberpunk aesthetics.
+
+---
+
+### 🏆 Achievements & Trophies
+
+<div align="center">
+  <a href="https://github.com/ryuhat/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryuhat&theme=tokyonight&no-bg=true&column=7" alt="Trophies" /></a>
+</div>
 
 ---
 
@@ -27,34 +35,44 @@ Passionate developer specializing in **Computer Vision**, **Large Language Model
 
 <details open>
 <summary><b>Languages & Core</b></summary>
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,r,matlab,java&perline=8" /></a>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,r,matlab,java" />
 </details>
 
 <details open>
 <summary><b>AI / ML Ecosystem</b></summary>
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&perline=4" /></a>
-  <br>
-  <b>Frameworks:</b> LangChain • LlamaIndex • Prompt Engineering • Object Detection • Tracking
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" />
+<br>
+<b>Focus:</b> LangChain • LlamaIndex • Prompt Engineering • Object Detection • Tracking
 </details>
 
 <details open>
 <summary><b>Web & Infrastructure</b></summary>
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=astro,react,nextjs,tailwind,nodejs,docker,gcp,linux&perline=8" /></a>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=astro,react,nextjs,tailwind,nodejs,docker,gcp,linux" />
 </details>
 
 ---
 
-### 📊 Vital Signs
+### 📊 Engineering Vital Signs
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&layout=compact&langs_count=8&theme=tokyonight" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuhat&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ryuhat"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ofuse.me/e4d3eb7c"><img src="https://img.shields.io/badge/Ofuse-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" /></a>
 </div>
 
 ---
