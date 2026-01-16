@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ryuhat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Creative%20Developer&descAlignY=60&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=ryuhat&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;AI+%26+Computer+Vision+Expert;Creative+Technologist;Building+HonoGear+Blog)](https://git.io/typing-svg)
 
@@ -53,8 +53,8 @@ Passionate developer specializing in **Computer Vision**, **Large Language Model
 ### 📊 Vital Signs
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Engineering+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuhat&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhat&layout=compact&langs_count=8&theme=tokyonight" height="180" />
 </div>
 
 ---
