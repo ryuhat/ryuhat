@@ -23,14 +23,6 @@ Passionate developer specializing in **Computer Vision**, **Large Language Model
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryuhat/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryuhat&theme=tokyonight&no-bg=true&column=7" alt="Trophies" /></a>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Magic Tools
 
 <details open>
